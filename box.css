@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width: 500px;
+    background-color: blueviolet;
+    color: blue;
+    padding-top: 100px;
+}
+nav{
+    color: beige;
+    background-color: black;
+    /* border: 5px snow double; */
+    border-width: 4px;
+    border-color: bisque;
+    border-style: double;
+    margin: 80px;
+}

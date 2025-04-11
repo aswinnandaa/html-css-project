@@ -1,0 +1,21 @@
+h1#t1{
+    color: red;
+}
+h2#t2{
+    color: blue;
+}
+p.p1{
+    color: green;
+}
+p.p2{
+    color: blueviolet;
+}
+h1,p,h2{
+    text-align: center;
+}
+*{
+    background-color: beige;
+}
+h1{
+    background-color: black;
+}
